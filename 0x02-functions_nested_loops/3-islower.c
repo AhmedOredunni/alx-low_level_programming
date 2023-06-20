@@ -3,7 +3,7 @@
 
 /**
  * _islower - check whether is lower or not
- *
+ * @c: The character to be checked
  * Return: int 1 or 0 otherwise
  */
 
